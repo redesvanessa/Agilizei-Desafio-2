@@ -36,4 +36,6 @@ import Routes from "./routes"
 
 before(() => {
     Routes.initArtigo()
+    Routes.initLogin()
+    Routes.initUser()
 });
