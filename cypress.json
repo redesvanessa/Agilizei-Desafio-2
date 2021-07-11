@@ -5,5 +5,9 @@
     "user":{
         "email" : "vanessaredes@redes.com.br",
         "password" : "12345678"
+    },
+    "reporter": "junit",
+    "reporterOptions": {
+        "mochaFile": "cypress/reports/junit-[hash].xml"
     }
 }

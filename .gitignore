@@ -13,6 +13,7 @@ cypress/reports/index.html.json
 # videos
 cypress/videos
 cypress/screenshots
+cypress/reports
 
 # outros
 .DS_Store
